@@ -1,0 +1,11 @@
+nacitaj
+vypis
+nacitaj
+vypis
+nacitaj
+vypis
+nacitaj
+vypis
+nacitaj
+vypis
+koniec
