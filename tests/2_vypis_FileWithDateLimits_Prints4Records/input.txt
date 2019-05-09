@@ -1,0 +1,3 @@
+nacitaj
+vypis
+koniec
