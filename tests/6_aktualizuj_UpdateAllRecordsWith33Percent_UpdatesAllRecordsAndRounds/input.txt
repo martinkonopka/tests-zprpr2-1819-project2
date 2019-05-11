@@ -1,0 +1,5 @@
+nacitaj
+aktualizuj 10 33
+vypis
+koniec
+

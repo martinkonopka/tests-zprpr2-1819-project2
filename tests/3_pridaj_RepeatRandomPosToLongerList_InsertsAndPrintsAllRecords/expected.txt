@@ -1,0 +1,24 @@
+Nacitalo sa 18 zaznamov
+1. Jozef Maly muz 11.02.1975 11.00
+2. Jozef Maly muz 11.02.1975 1178.88
+3. Peter Sumracny muz 16.08.1982 256.64
+4. Jozef Maly muz 11.02.2005 0.70
+5. Maria Krasna zena 03.01.1962 1636.90
+6. Peter Sumracny muz 16.08.1984 256.64
+7. Maria Krasna zena 03.01.1962 1636.90
+8. Maria Krasna zena 03.01.1962 1636.90
+9. Maria Krasna zena 03.01.1962 36.90
+10. Ivana Fialova zena 30.06.2019 100.00
+11. Peter Sumracny muz 16.08.1981 256.64
+12. TEST teSTOVACI muz 01.01.2000 1036.10
+13. test teSTOVACI zena 03.01.1962 999.11
+14. Renata Bystrohlava zena 01.01.2000 36.90
+15. Petr Novak muz 01.01.2000 36.90
+16. Peter Sumracny muz 16.08.1983 256.64
+17. Ivana Fialova zena 30.06.2019 100.00
+18. Peter Sumracny muz 16.08.1985 256.64
+19. Karol Turborychly muz 26.04.2012 223456.33
+20. Milan Vesely muz 15.12.1995 135.20
+21. Milan Vesely muz 15.12.1995 1835.20
+22. Milan Vesely muz 15.12.1995 1835.20
+23. Milan Vesely muz 15.12.1995 1835.20

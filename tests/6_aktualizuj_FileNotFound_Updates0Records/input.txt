@@ -1,0 +1,3 @@
+nacitaj
+aktualizuj 2 10
+koniec

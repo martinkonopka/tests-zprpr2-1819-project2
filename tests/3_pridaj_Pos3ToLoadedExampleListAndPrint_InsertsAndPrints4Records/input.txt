@@ -1,0 +1,6 @@
+nacitaj
+pridaj 3
+Peter Sumracny 8108160016 256.64
+vypis
+koniec
+

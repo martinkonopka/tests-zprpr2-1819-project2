@@ -1,0 +1,14 @@
+nacitaj
+pridaj 4
+Peter Sumracny 8108160016 256.64
+pridaj 5
+Peter Sumracny 8208160016 256.64
+pridaj 6
+Peter Sumracny 8308160016 256.64
+pridaj 7
+Peter Sumracny 8408160016 256.64
+pridaj 8
+Peter Sumracny 8508160016 256.64
+vypis
+koniec
+

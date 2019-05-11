@@ -1,0 +1,14 @@
+Nacitalo sa 1000 zaznamov
+Vymazalo sa 988 zaznamov
+1. Jozef Maly muz 11.02.1975 11.00
+2. Jozef Maly muz 11.02.1975 1178.88
+3. Jozef Maly muz 11.02.2005 0.70
+4. Maria Krasna zena 03.01.1962 1636.90
+5. Maria Krasna zena 03.01.1962 36.90
+6. TEST teSTOVACI muz 01.01.2000 1036.10
+7. test teSTOVACI zena 03.01.1962 999.11
+8. Renata Bystrohlava zena 01.01.2000 36.90
+9. Petr Novak muz 01.01.2000 36.90
+10. Karol Turborychly muz 06.12.2004 223456.33
+11. Milan Vesely muz 15.12.1995 135.20
+12. Milan Vesely muz 15.12.1995 1835.20

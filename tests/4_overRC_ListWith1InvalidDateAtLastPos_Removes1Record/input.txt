@@ -1,0 +1,4 @@
+nacitaj
+overRC
+vypis
+koniec

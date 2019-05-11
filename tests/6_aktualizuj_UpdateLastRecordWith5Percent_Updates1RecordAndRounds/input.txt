@@ -1,0 +1,5 @@
+nacitaj
+aktualizuj 50 5
+vypis
+koniec
+

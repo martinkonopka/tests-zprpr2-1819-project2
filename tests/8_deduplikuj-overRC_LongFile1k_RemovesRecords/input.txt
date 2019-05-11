@@ -1,0 +1,6 @@
+nacitaj
+overRC
+vypis
+deduplikuj
+vypis
+koniec

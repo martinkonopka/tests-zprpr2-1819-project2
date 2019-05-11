@@ -1,0 +1,6 @@
+nacitaj
+obrat
+vypis
+deduplikuj
+vypis
+koniec

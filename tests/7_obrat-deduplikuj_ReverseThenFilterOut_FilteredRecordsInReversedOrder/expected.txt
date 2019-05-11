@@ -1,0 +1,33 @@
+Nacitalo sa 18 zaznamov
+1. Milan Vesely muz 15.12.1995 1835.20
+2. Milan Vesely muz 15.12.1995 1835.20
+3. Milan Vesely muz 15.12.1995 1835.20
+4. Milan Vesely muz 15.12.1995 135.20
+5. Karol Turborychly muz 26.04.2012 223456.33
+6. Ivana Fialova zena 30.06.2019 100.00
+7. Petr Novak muz 01.01.2000 36.90
+8. Renata Bystrohlava zena 01.01.2000 36.90
+9. test teSTOVACI zena 03.01.1962 999.11
+10. TEST teSTOVACI muz 01.01.2000 1036.10
+11. Ivana Fialova zena 30.06.2019 100.00
+12. Maria Krasna zena 03.01.1962 36.90
+13. Maria Krasna zena 03.01.1962 1636.90
+14. Maria Krasna zena 03.01.1962 1636.90
+15. Maria Krasna zena 03.01.1962 1636.90
+16. Jozef Maly muz 11.02.2005 0.70
+17. Jozef Maly muz 11.02.1975 1178.88
+18. Jozef Maly muz 11.02.1975 11.00
+Vymazalo sa 5 zaznamov
+1. Milan Vesely muz 15.12.1995 1835.20
+2. Milan Vesely muz 15.12.1995 1835.20
+3. Karol Turborychly muz 26.04.2012 223456.33
+4. Ivana Fialova zena 30.06.2019 100.00
+5. Petr Novak muz 01.01.2000 36.90
+6. Renata Bystrohlava zena 01.01.2000 36.90
+7. test teSTOVACI zena 03.01.1962 999.11
+8. TEST teSTOVACI muz 01.01.2000 1036.10
+9. Maria Krasna zena 03.01.1962 36.90
+10. Maria Krasna zena 03.01.1962 1636.90
+11. Jozef Maly muz 11.02.2005 0.70
+12. Jozef Maly muz 11.02.1975 1178.88
+13. Jozef Maly muz 11.02.1975 11.00

@@ -1,0 +1,10 @@
+nacitaj
+aktualizuj 50 10
+vypis
+pridaj 3
+Peter Sumracny 8108160016 256.64
+vypis
+aktualizuj 30 100
+vypis
+koniec
+

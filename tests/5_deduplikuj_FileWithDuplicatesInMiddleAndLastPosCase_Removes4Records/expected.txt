@@ -1,0 +1,16 @@
+Nacitalo sa 18 zaznamov
+Vymazalo sa 4 zaznamov
+1. Jozef Maly muz 11.02.1975 11.00
+2. Jozef Maly muz 11.02.1976 1178.88
+3. Jozef Maly muz 11.02.2005 0.70
+4. Maria Krasna zena 03.01.1961 1636.90
+5. MaRIA Krasna zena 03.02.1962 1636.90
+6. Ivana Cervena zena 30.06.2019 100.00
+7. Pouzivatel teSTOvaci muz 01.11.2000 1036.10
+8. pouzivatel TESTOVACI zena 03.01.1962 999.11
+9. Renata Bystrohlava zena 01.01.2000 36.90
+10. Pavel Novak muz 01.11.2000 36.90
+11. Ivana Fialova zena 30.06.2019 100.00
+12. Karol Turborychly muz 26.04.2012 223456.33
+13. Vincent Zamatovy muz 15.12.1995 135.20
+14. Vincent ZAMATovy muz 15.11.1995 1835.20

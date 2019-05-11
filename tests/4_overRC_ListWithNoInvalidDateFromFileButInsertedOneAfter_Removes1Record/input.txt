@@ -1,0 +1,7 @@
+nacitaj
+overRC
+pridaj 3
+Jozef Maly 7502110012 11.00
+overRC
+vypis
+koniec

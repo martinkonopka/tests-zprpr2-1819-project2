@@ -1,0 +1,6 @@
+nacitaj
+vypis
+obrat
+vypis
+koniec
+

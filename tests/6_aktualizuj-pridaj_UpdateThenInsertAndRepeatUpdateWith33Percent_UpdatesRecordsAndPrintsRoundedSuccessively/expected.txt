@@ -1,0 +1,14 @@
+Nacitalo sa 3 zaznamov
+Aktualizovalo sa 1 zaznamov
+1. Jozef Maly muz 11.02.1975 1178.88
+2. Milan Vesely muz 15.12.1995 1835.20
+3. Maria Krasna zena 03.01.1962 1800.59
+1. Jozef Maly muz 11.02.1975 1178.88
+2. Milan Vesely muz 15.12.1995 1835.20
+3. Peter Sumracny muz 16.08.1981 256.64
+4. Maria Krasna zena 03.01.1962 1800.59
+Aktualizovalo sa 3 zaznamov
+1. Jozef Maly muz 11.02.1975 2357.76
+2. Milan Vesely muz 15.12.1995 1835.20
+3. Peter Sumracny muz 16.08.1981 513.28
+4. Maria Krasna zena 03.01.1962 3601.18

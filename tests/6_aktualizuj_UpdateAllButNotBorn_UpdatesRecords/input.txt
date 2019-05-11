@@ -1,0 +1,4 @@
+nacitaj
+aktualizuj 1 100
+vypis
+koniec
