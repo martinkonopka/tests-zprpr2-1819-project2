@@ -1,0 +1,6 @@
+Nacitalo sa 14 zaznamov
+Vymazalo sa 10 zaznamov
+1. Minimalny DatumMuz muz 01.01.1920 11.00
+2. Minimalny DatumZena zena 01.01.1920 12.00
+3. Maximalny DatumMuz muz 31.12.2019 20.00
+4. Maximalny DatumZena zena 31.12.2019 21.00
